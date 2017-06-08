@@ -1,0 +1,51 @@
+head{font-style: red, italic;
+  }
+body{background-color:#bfb9b9;
+font-family: sans-serif;
+}
+
+table{
+	position: absolute;
+	border-collapse: collapse;
+	float:right;
+	 
+	margin-left: 75%;
+	height: 50%;
+
+	
+	
+}
+td{
+	  border: 1px solid black;
+}
+
+a:hover{
+	background-color:#cbb4ea;}
+	a:visited{
+		color:red
+		background-color #cbb4ea;
+	}
+ .Thomas { border-radius: 25% }
+
+img {
+border-radius: 50%;
+	 }
+	 .imgs{ padding-left: 55px;
+	 	display: flex;
+	 flex-direction: column;
+	 	position: absolute;
+	 	margin-left: 500px; 
+	 }
+	 .twitter{
+	 	border-radius:0%;
+	 }
+#Body {
+	position: absolute;;
+	background-color: #eae3e3;
+	width: 50%;
+	height: 500px;
+}
+.foot{ position:;}
+p { 
+font-weight: 900;
+ }
